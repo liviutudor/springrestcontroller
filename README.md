@@ -1,0 +1,4 @@
+springrestcontroller
+====================
+
+Spring @RestController test
